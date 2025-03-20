@@ -1,9 +1,13 @@
 .ayah {
   text-align: center;
   margin-top: 20px;
+  padding: 10px;
+  max-width: 500px;
 }
 .zk1 {
-  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  max-width: 500px;
 }
 .zk-container {
   display: flex;
@@ -65,7 +69,6 @@ input {
   align-items: center;
   flex-direction: column;
   gap: 15px;
-  height: 55vh;
 }
 .zk-btn {
   width: 300px;
